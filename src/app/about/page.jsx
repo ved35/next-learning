@@ -3,7 +3,7 @@ import styles from './about.module.css'
 
 const About = () => {
     return (
-        <div className={styles.container}>
+        <div className={styles.container}> 
             <div className={styles.textContainer}>
                 <h2 className={styles.title}>About Agency</h2>
                 <h1 className={styles.subtitle}>We create digital ideas that are bigger, bolder, braver and better.</h1>
